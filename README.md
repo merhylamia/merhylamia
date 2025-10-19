@@ -20,7 +20,7 @@
 ![AutoDock](https://img.shields.io/badge/AutoDock-FF6600?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0088CC?style=for-the-badge)
 
-### Skills
+#### Skills
 **Languages:** Python, R, SQL, VBA, Bash, Java  
 **Libraries:** NumPy, pandas, scikit-learn, matplotlib, ggplot2  
 **Tools:** Power BI, Tableau, Power Automate, JIRA, Confluence  
