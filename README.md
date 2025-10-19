@@ -21,7 +21,7 @@ Currently working as a **Client Success Analyst at Closir** — bridging data, t
 🔹 [Computational Drug Design – Montelukast](https://github.com/merhylamia/computational-drug-design-montelukast)  
 Drug–target interaction study using AutoDock, SwissDock, and visualization in Chimera.
 
-🔹 [Diabetes: Genetic & Environmental Factors (R)](https://github.com/merhylamia/diabetes-genetics-environment-r)  
+🔹 [Diabetes: Genetic & Environmental Factors (R)](https://github.com/merhylamia/r-diabetes-genetics-environment)  
 Statistical modeling and data visualization exploring genetic and environmental correlations.
 
 🔹 [Gene to Protein + Amino Acid Stats](https://github.com/merhylamia/gene-to-protein-aa-stats)  
